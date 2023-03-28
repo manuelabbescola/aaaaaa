@@ -5,14 +5,31 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
 </head>
 <body>
-    <h1>coloque uma imagem aqui</h1>
+    <header>
+    <h1>Alura star</h1>
+    <ul>    </ul>
+    </header>
+
+    <body>
+        <h3>informações</3>
+        </body>
+        <h3>Sobre mim</h3>
+        <h2>&</h2>
+        <h2>interesses</h2>
+        <h3>projeto escolar</h3>
+        <h3>site sobre si mesmo ou sobre escola, usando figma e programação</h3>
+
+        <h3>início</h3>
+        <h3>sobre mim</h3>
+        <h3>interesses</h3>
 </body>
 </html>
 
-<title>Document</title>
-<link rel="stylesheet" href="style.css" 
 
-
-
+  <header>
+    <img scr=""   alt="">
+  </header>
